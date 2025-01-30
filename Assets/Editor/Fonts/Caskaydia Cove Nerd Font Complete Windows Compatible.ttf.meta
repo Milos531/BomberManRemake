@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa1bffb12923cf24a8c0385eed5992fc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CaskaydiaCove NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d40d32f201ec1e43bccb3ef0704f68f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

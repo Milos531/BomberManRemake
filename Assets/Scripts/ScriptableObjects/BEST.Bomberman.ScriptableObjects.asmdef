@@ -1,0 +1,16 @@
+{
+    "name": "BEST.BomberMan.ScriptableObjects",
+    "rootNamespace": "BEST.BomberMan",
+    "references": [
+        "GUID:34c5a399bc6f5134fbb427875b47501a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

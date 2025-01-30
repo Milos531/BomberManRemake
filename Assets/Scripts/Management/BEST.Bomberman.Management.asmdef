@@ -1,0 +1,18 @@
+{
+    "name": "BEST.BomberMan.Management",
+    "rootNamespace": "BEST.BomberMan",
+    "references": [
+        "GUID:34c5a399bc6f5134fbb427875b47501a",
+        "GUID:a3a28ac59dc6bf843991e59d44930888",
+        "GUID:0c727e3f5bff8384f97fcaff08e5d188"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "BEST.BomberMan.Behaviours",
+    "rootNamespace": "BEST.BomberMan",
+    "references": [
+        "GUID:34c5a399bc6f5134fbb427875b47501a",
+        "GUID:a3a28ac59dc6bf843991e59d44930888",
+        "GUID:5253ce51267781f46b2d2a268d1ae56b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

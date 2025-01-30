@@ -1,0 +1,20 @@
+{
+    "name": "BEST.BomberMan.UI",
+    "rootNamespace": "BEST.BomberMan",
+    "references": [
+        "GUID:4cd6737b62548c244a83b273d8246567",
+        "GUID:34c5a399bc6f5134fbb427875b47501a",
+        "GUID:a3a28ac59dc6bf843991e59d44930888",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:5253ce51267781f46b2d2a268d1ae56b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
